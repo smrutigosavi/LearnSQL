@@ -1,1 +1,0 @@
-Create Table Customers(data int , name Varchar);
